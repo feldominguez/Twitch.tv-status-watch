@@ -1,4 +1,5 @@
-Responsive Twitch TV Channel Watcher App built with the Twitch API. This is a project inspired by the FCC sample project.
+## Twitch TV Stream Status App
+Responsive Twitch TV App built with the Twitch API. This is a project inspired by the FCC sample project.
 
 * HTML
 * CSS
